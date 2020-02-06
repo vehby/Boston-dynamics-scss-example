@@ -6,8 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-
-git check-ignore -v screencapture-bostondynamics-2020-02-05-13_47_32.png
+# Screenshooot
+screencapture-bostondynamics-2020-02-05-13_47_32.png
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
